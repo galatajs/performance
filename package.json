@@ -1,0 +1,13 @@
+{
+  "name": "@istanbul/performance",
+  "version": "0.0.1",
+  "description": "Performance Group of Istanbul Framework",
+  "keywords": [
+    "istanbul",
+    "istanbuljs",
+    "compress",
+    "performance"
+  ],
+  "author": "Sami Salih İBRAHİMBAŞ",
+  "license": "MIT"
+}
